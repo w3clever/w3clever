@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋,This is Mehedi</h1>
-<h3 align="center">I am a web developer, and I will design and develop a responsive website with SEO and optimization</h3>
+<h3 align="center">Full Stack Web Developer In Wordpress | Wordpress Theme Development | WooCommerce Theme Development | Elementor Widget Development |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w3mehedi&label=Profile%20views&color=0e75b6&style=flat" alt="w3mehedi" /> </p>
 
