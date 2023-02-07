@@ -7,61 +7,61 @@ This Is Mehedi Hasan, I am a Professional Full-Time WordPress Theme And Elemento
 I Converted From HTML Template/PSD to WordPress Theme. I'm Passionate About Design And Always Look For New And Creative Ideas. Understanding The Client's Requirements is key to Designing And Develop a Website That Satisfies Them And Helps Them Achieve Their Business Goals. 
 Thank you 💚
 
- ---What will you get? And My Services---
-✔️WordPress Installation.
-✔️Modern WordPress website design or blog.
-✔️ Premium WP themes and plugins.
-✔️ Fast loading/Speed optimization.
-✔️Redesign or revamp an existing site.
-✔️Pixel Perfect Website.
-✔️WordPress Theme development.
-✔️Elementor Widget development.
-✔️Theme Option development
-✔️Customizer Option development.
-✔️WordPress Widget development.
-✔️Page speed optimized and fast.
-✔️Customized design as per your requirement.
-✔️Live chat feature, Google map, Social media, Payment Gateway integration.
-✔️Yoast SEO Plugin.
-✔️PSD to WordPress Theme conversion.
-✔️HTML Template to WordPress Theme conversion.
-✔️WordPress E-Commerce website using woocommerce.
-✔️Verify and submit your site to google. 
+ ---What will you get? And My Services---<br>
+✔️WordPress Installation.<br>
+✔️Modern WordPress website design or blog.<br>
+✔️ Premium WP themes and plugins.<br>
+✔️ Fast loading/Speed optimization.<br>
+✔️Redesign or revamp an existing site.<br>
+✔️Pixel Perfect Website.<br>
+✔️WordPress Theme development.<br>
+✔️Elementor Widget development.<br>
+✔️Theme Option development<br>
+✔️Customizer Option development.<br>
+✔️WordPress Widget development.<br>
+✔️Page speed optimized and fast.<br>
+✔️Customized design as per your requirement.<br>
+✔️Live chat feature, Google map, Social media, Payment Gateway integration.<br>
+✔️Yoast SEO Plugin.<br>
+✔️PSD to WordPress Theme conversion.<br>
+✔️HTML Template to WordPress Theme conversion.<br>
+✔️WordPress E-Commerce website using woocommerce.<br>
+✔️Verify and submit your site to google.<br> 
 
- ---What You'll get?---
-Fully Responsive, Setup All Needed Pages, customized premium themes & Plugins, Contact Form 7, Drag & Drop page builder.
+ ---What You'll get?---<br>
+Fully Responsive, Setup All Needed Pages, customized premium themes & Plugins, Contact Form 7, Drag & Drop page builder.<br>
 
- ---What I'll do on various packages?---
-e-Commerce, Speed & SEO Optimization, WordPress Multi-Language., Certificates, Payment gateways integration, Gateways integration, Newsletter popup, Needed Plugin, etc.
+ ---What I'll do on various packages?---<br>
+e-Commerce, Speed & SEO Optimization, WordPress Multi-Language., Certificates, Payment gateways integration, Gateways integration, Newsletter popup, Needed Plugin, etc.<br>
 
----Some Example Websites And Wordpress Theme I can create for you---
-✅ Business website
-✅ Health/ Fitness website
-✅ Construction service
-✅ Medical/ Dental
-✅ Real Estate website
-✅ E-commerce 
-✅ E-learning platform
-✅ Membership website
-✅ Landing Pages
-✅ Booking/Listing
-✅ Many more.
+---Some Example Websites And Wordpress Theme I can create for you---<br>
+✅ Business website<br>
+✅ Health/ Fitness website<br>
+✅ Construction service<br>
+✅ Medical/ Dental<br>
+✅ Real Estate website<br>
+✅ E-commerce <br>
+✅ E-learning platform<br>
+✅ Membership website<br>
+✅ Landing Pages<br>
+✅ Booking/Listing<br>
+✅ Many more.<br>
 
 
----Why do you hire me?--- 
-➤100% quality full service to your satisfaction.
-➤3+ years experience as WordPress Developer.
-➤100% refund if you are not satisfied.
-➤So more fast delivery.
-➤I will allow revision.
-➤Even after the order is complete, I still provide Future support for any help.
+---Why do you hire me?--- <br>
+➤100% quality full service to your satisfaction.<br>
+➤3+ years experience as WordPress Developer.<br>
+➤100% refund if you are not satisfied.<br>
+➤So more fast delivery.<br>
+➤I will allow revision.<br>
+➤Even after the order is complete, I still provide Future support for any help.<br>
 
-Feel free to tell me if you have any questions or send me a Massage
-Gmail: w3mehedi7330@gmail.com
-Whatsapp:+8801911512474
+Feel free to tell me if you have any questions or send me a Massage<br>
+Gmail: w3mehedi7330@gmail.com<br>
+Whatsapp:+8801911512474<br>
 
-Committed to your success,
-Mehedi Hasan</p>
+Committed to your success,<br>
+Mehedi Hasan</p><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w3mehedi&label=Profile%20views&color=0e75b6&style=flat" alt="w3mehedi" /> </p>
 
