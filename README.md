@@ -1,6 +1,67 @@
 
 <h1 align="center">Hi 👋,This is Mehedi</h1>
 <h3 align="center">Full Stack Web Developer In Wordpress | Wordpress Theme Development | WooCommerce Theme Development | Elementor Widget Development |</h3>
+<p>Hi,
+This Is Mehedi Hasan, I am a Professional Full-Time WordPress Theme And Elementor Widget Developer With a Having 3+ Years of Experience at Work. 
+
+I Converted From HTML Template/PSD to WordPress Theme. I'm Passionate About Design And Always Look For New And Creative Ideas. Understanding The Client's Requirements is key to Designing And Develop a Website That Satisfies Them And Helps Them Achieve Their Business Goals. 
+Thank you 💚
+
+ ---What will you get? And My Services---
+✔️WordPress Installation.
+✔️Modern WordPress website design or blog.
+✔️ Premium WP themes and plugins.
+✔️ Fast loading/Speed optimization.
+✔️Redesign or revamp an existing site.
+✔️Pixel Perfect Website.
+✔️WordPress Theme development.
+✔️Elementor Widget development.
+✔️Theme Option development
+✔️Customizer Option development.
+✔️WordPress Widget development.
+✔️Page speed optimized and fast.
+✔️Customized design as per your requirement.
+✔️Live chat feature, Google map, Social media, Payment Gateway integration.
+✔️Yoast SEO Plugin.
+✔️PSD to WordPress Theme conversion.
+✔️HTML Template to WordPress Theme conversion.
+✔️WordPress E-Commerce website using woocommerce.
+✔️Verify and submit your site to google. 
+
+ ---What You'll get?---
+Fully Responsive, Setup All Needed Pages, customized premium themes & Plugins, Contact Form 7, Drag & Drop page builder.
+
+ ---What I'll do on various packages?---
+e-Commerce, Speed & SEO Optimization, WordPress Multi-Language., Certificates, Payment gateways integration, Gateways integration, Newsletter popup, Needed Plugin, etc.
+
+---Some Example Websites And Wordpress Theme I can create for you---
+✅ Business website
+✅ Health/ Fitness website
+✅ Construction service
+✅ Medical/ Dental
+✅ Real Estate website
+✅ E-commerce 
+✅ E-learning platform
+✅ Membership website
+✅ Landing Pages
+✅ Booking/Listing
+✅ Many more.
+
+
+---Why do you hire me?--- 
+➤100% quality full service to your satisfaction.
+➤3+ years experience as WordPress Developer.
+➤100% refund if you are not satisfied.
+➤So more fast delivery.
+➤I will allow revision.
+➤Even after the order is complete, I still provide Future support for any help.
+
+Feel free to tell me if you have any questions or send me a Massage
+Gmail: w3mehedi7330@gmail.com
+Whatsapp:+8801911512474
+
+Committed to your success,
+Mehedi Hasan</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w3mehedi&label=Profile%20views&color=0e75b6&style=flat" alt="w3mehedi" /> </p>
 
